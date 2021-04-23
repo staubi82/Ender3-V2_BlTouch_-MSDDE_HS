@@ -4,8 +4,8 @@ Verbaut wurde noch der Micro Swiss Direct Drive Extruder inkl. All Metal Hotend 
 
 Aktuelle Änderungen sind:
 
-Marlin 2.x.x
-High Speed Profil
-BlTouch mit 5x5 Messpunkte
-Die Y + X Homeposition wurde angepasst
-Arc Support
+Marlin 2.x.x -
+High Speed Profil -
+BlTouch mit 5x5 Messpunkte -
+Die Y + X Homeposition wurde angepasst -
+Arc Support -
